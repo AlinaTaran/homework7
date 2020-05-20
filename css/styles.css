@@ -178,7 +178,7 @@ input[type="radio"].visually-hidden {
 }
 
 .subtitle-services {
-  display: block;
+  text-align: center;
   font-family: var(--fourth-font);
   font-style: italic;
   font-size: 16px;
